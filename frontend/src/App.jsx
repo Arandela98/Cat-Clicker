@@ -1,9 +1,10 @@
 import { useState } from 'react'
+import ClickerButton from './components/ClickerButton'
 
 function App() {
   return (
     <>
-      hola
+      <ClickerButton></ClickerButton>
     </>
   )
 }
